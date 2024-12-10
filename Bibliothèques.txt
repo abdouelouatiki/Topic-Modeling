@@ -1,0 +1,6 @@
+nltk
+stop-words
+pandas
+gensim
+pyLDAvis
+streamlit
